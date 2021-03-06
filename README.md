@@ -2,8 +2,7 @@ PDPCafe
 =======
 
 This is my second PDP-11 emulator, in Java this time.
-The development was done between 1999 and 2002.
-The prospect of a cross-platform emulator appealed to me, so I ported my original C
+The development was done between 1999 and 2002, porting my original C
 code.  An image of XXDP became available on the web and I ironed out a lot
 of the mistakes I had made in the original emulator.
 
